@@ -9,7 +9,7 @@ Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, 
 
 <br>
 
-Page with more informations about the AZ-900 Exam - https://docs.microsoft.com/en-us/learn/certifications/exams/az-900.
+[Page with more informations about the AZ-900 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900).
 
 <br>
 
