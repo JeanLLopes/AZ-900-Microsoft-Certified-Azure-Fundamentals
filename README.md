@@ -18,10 +18,24 @@ Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, 
 ___
 
 ## Create an environment
-
 During creating the virtual machine you can choice the protocol, HTTP, HTTPS, RDP*, etc for examples
 
-<br>
+___
 
+### Youtube
+
+- [ ] [Youtube AZ-900 Azure Fundamentals Certification Course Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [x] [AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU&t=3356s)
+- [ ] 
+
+___
+
+### Github
+
+- [ ] [fdicarlo/AZ-900](https://github.com/fdicarlo/AZ-900)
+- [ ] [davidcervigonluna/AZ-900FAQ](https://github.com/davidcervigonluna/AZ-900FAQ)
+- [ ] 
+
+____
 
 >**RDP** Remote Desktop Protocol (ou somente RDP) é um protocolo multi-canal que permite que um usuário se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das versões do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padrão a porta TCP 3389
