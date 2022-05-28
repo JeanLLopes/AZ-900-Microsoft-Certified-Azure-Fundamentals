@@ -1,5 +1,8 @@
 # [AZ-900-Microsoft-Certified-Azure-Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 
+### Notes
+
+
 Propouse of AZ-900 certification:  
 Candidates for this exam should have foundational knowledge of cloud services and how those services are provided with Microsoft Azure. The exam is intended for candidates who are just beginning to work with cloud-based solutions and services or are new to Azure.
 Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
