@@ -70,3 +70,6 @@ ___
 - ![image](https://jadsonalves.com.br/wp-content/uploads/2021/04/migrate-to-premium-storage-using-azure-site-recovery-1.png)
 
 ### Customer Latency Capabilities 
+
+--
+https://youtu.be/DlfDKhFb1XU?t=1830
