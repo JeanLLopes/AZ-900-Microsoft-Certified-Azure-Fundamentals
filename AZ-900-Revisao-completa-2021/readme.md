@@ -116,10 +116,44 @@ ___
 
 <br>
 
-The Azure Cloud, provide this two types of contract.
+> **IMPORTANT**: The Azure Cloud, provide this two types of contract.
 
 ___
 
 ## **Cloud Services**
 
+![image](https://uploads-ssl.webflow.com/5f9497b13bcbdc738e5867c5/61af48facc039c26c05a8d08_k2TZ3iKwijvU3owlhHFMkP761IPhvGYJmrTzDnx4Y772udtHqafIAjMXKbBx4t4LSClsaaxlUqfa6VmW2873nTNCJaZY0ziK8_zL2ZBv3uvV1jzntdMbhUEWfTqGAVuq56Vt9yvQ.png)
 
+<br>
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopwK8sgmzH9zjdzDvZ2C4iVIxH6zzo6N61w&usqp=CAU)
+
+### IAAS (Infrastructure as a service)
+- The responsability is for client, examples maintainable, update, stop applications
+- For examples dedicated machines
+  
+<br>
+
+### Paas (Plataform as a service)
+- Azure cloud provide update, maintainable and resources to machine, the client is responsable about the application or data (in case of database)
+- For examples SQL Service, the Cloud is responsable about the SQL application and machine, but the responsability to manage the application is to client
+
+<br>
+
+### Saas (Software as a service)
+- The all application and machine is responsability to Cloud provide
+- For example Office 365 or Cognitive Service
+
+<br>
+
+> **IMPORTANT**: in all cases the responsability of backup of information is to client, Cloud not is responsable for you backup information in any services 
+
+<br>
+
+### Shared responsabilty model 
+
+![image](https://f.hubspotusercontent30.net/hubfs/508286/Microsoft%20Azure%20Shared%20Responsibility%20Model%20600x300.png)
+
+___
+
+ 
