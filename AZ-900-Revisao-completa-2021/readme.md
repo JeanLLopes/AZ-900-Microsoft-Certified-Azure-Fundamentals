@@ -40,6 +40,10 @@ ___
 <br>
 
 ### Scalability
+- In this topic is about how much you can grow up your application with resources you have 
+- In case of a black friday, how many machines you have to grow up your application
+- About this topic is specificaly about physical hardware, how many hardware you have to encrease your application, in cloud you do not have limit to this scalability, but on premise you need buy more machines 
+
 
 ### Agility
 
