@@ -118,3 +118,8 @@ ___
 
 The Azure Cloud, provide this two types of contract.
 
+___
+
+## **Cloud Services**
+
+
