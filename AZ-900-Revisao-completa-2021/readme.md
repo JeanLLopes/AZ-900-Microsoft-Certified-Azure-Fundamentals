@@ -156,4 +156,33 @@ ___
 
 ___
 
- 
+## Core components in Azure Cloud
+
+### Azure Cloud region
+- Azure cloud is available 60 more countries, not all services is available in all zones
+  - When a new zone is created not all services for Azure Cloud is available in this zone in same time
+- Each region have a different value to maintain your application, because regions governamental fees or taxes, energy cost, and more...
+  - US region it's more cheaper 
+
+![image](https://powerbiexpert.files.wordpress.com/2022/01/4eb09-image-16.png)
+
+<br>
+
+### Region pairs
+Each region in Azure Cloud has a pair, this regions provide:
+- Automaticaly replica for a some services
+- Priority to rescue region in case os stop
+- Distribuited updateds in sequencial to minimize downtime
+
+For one region is par to another region one role at least 300 miles of distance each other
+
+Follow pairs list below:
+
+<br>
+
+![image](https://docs.microsoft.com/en-us/learn/wwl-azure/discuss-core-azure-architectural-components/media/regional-pairs.png)
+
+<br>
+
+![image](https://www.pragimtech.com/blog/contribute/article_images/1220201111015353/examples-of-azure-region-pairs.jpg)
+
