@@ -35,7 +35,10 @@ ___
 <br>
 
 ### Global Reach
- 
+- Is about the service is available around the world, 
+- Azure service is avaible for all countries 
+- Today Azure as datacenter in more 60 regions
+- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-5t43MCoS80v-ZB5Bmyb2iS_aNq9AnWpZlCxWMP9_GLBufzflJpVLb_caJ2KVh7EOmg&usqp=CAU)
 
 <br>
 
@@ -43,11 +46,20 @@ ___
 - In this topic is about how much you can grow up your application with resources you have 
 - In case of a black friday, how many machines you have to grow up your application
 - About this topic is specificaly about physical hardware, how many hardware you have to encrease your application, in cloud you do not have limit to this scalability, but on premise you need buy more machines 
+- About this topic you have two types to scale, **scale up** and **scale out**, see below
+- ![image](https://inverodigital.com/site-content/uploads/2021/03/scale-up-vs-scale-out.png)
 
 
 ### Agility
+- Basicaly this topic is about ease and convenience to provide new envinments, in cloud is very easy and agile create infrastructure, provide new machines, new network communication, comparison to in house infrastructure when you need buy new machines build new local to receive and mount this structure and more.
+
+<br> 
 
 ### Predictive Cost Considerations
+- Is about the cost of your infrastructure, you can provide for your customer what is he cost about your services and structure
+- We can [azure calculator](https://azure.microsoft.com/pt-br/pricing/calculator/) to estimate yours cost in cloud 
+
+<br>
 
 ### Fault Tolerance (Tolerancia a Falha)
 
@@ -64,6 +76,10 @@ ___
 <br>
 
 ### Security
+- Today Azure is the cloud more certified comparision to anothers cloud
+- ![image](https://azsec.azurewebsites.net/wp-content/uploads/2019/11/azure_compliance.png)
+
+<br>
 
 ### Disaster Recover
 - Disaster recover have unavailablity
@@ -73,7 +89,13 @@ ___
 - When you apply the disaster recovery you need a plan to redirect your applications to disaster recovery, and this plan takes a time to apply, usually in hours.  
 - ![image](https://jadsonalves.com.br/wp-content/uploads/2021/04/migrate-to-premium-storage-using-azure-site-recovery-1.png)
 
+<br>
+
 ### Customer Latency Capabilities 
+- Azure Cloud is available in 60 regions, you can make available your application more closer of your customers and so decrease the time betwheen your application and your customer.
+- The more closer you application is for your customer, smaller latency your customer have.
+
+
+<br>
 
 --
-https://youtu.be/DlfDKhFb1XU?t=1830
