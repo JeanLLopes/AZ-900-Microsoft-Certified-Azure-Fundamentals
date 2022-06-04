@@ -92,10 +92,29 @@ ___
 <br>
 
 ### Customer Latency Capabilities 
-- Azure Cloud is available in 60 regions, you can make available your application more closer of your customers and so decrease the time betwheen your application and your customer.
+- Azure Cloud is available in more 60 regions, you can make available your application more closer of your customers and so decrease the time betwheen your application and your customer.
 - The more closer you application is for your customer, smaller latency your customer have.
 
 
 <br>
 
---
+___
+
+## **Models of Cloud**
+
+### Capital Expenditure (CapEx)
+- You need buy the infrastructure, and this structure is yours, you can buy with a contract or lising.
+- This infrastructure is yours, and only you use this.
+- When you choise for this model, you can have more discount because you reserve this machine for you to an especific duration.
+
+<br>
+
+### Operation Expenditure (OpEx)
+- You pay only what you use. 
+- Is more easy, but is more expensive for a long time, because you can stop use anytime.
+- Is more easy, to grow up your structure.
+
+<br>
+
+The Azure Cloud, provide this two types of contract.
+
