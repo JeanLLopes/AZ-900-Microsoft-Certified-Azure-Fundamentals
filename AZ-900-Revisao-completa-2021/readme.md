@@ -186,3 +186,7 @@ Follow pairs list below:
 
 ![image](https://www.pragimtech.com/blog/contribute/article_images/1220201111015353/examples-of-azure-region-pairs.jpg)
 
+
+___
+https://youtu.be/DlfDKhFb1XU?t=3815
+
