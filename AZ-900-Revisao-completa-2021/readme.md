@@ -246,5 +246,10 @@ Is a account on Azure, provide authentication and authorization on Azure Cloud
 
 <br>
 
-
-
+### Manage Subscription
+Is responsable to manager each susbscription, is responsable to apply rules or polices for each subscription
+- You can create any managemant group
+- One management group tree can suport six levels to depth
+- 10K manager group can use in one sigle directory
+- The subscription inherit policies and rules
+- ![image](https://docs.microsoft.com/en-us/azure/governance/management-groups/media/tree.png)   
