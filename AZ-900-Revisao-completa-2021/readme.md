@@ -221,7 +221,7 @@ ___
 
 <br>
 
-![image]([https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png](https://miro.medium.com/max/748/1*USCA8A7mswYlM_QR98jTfA.png))
+![image](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png)
 
 <br>
 
