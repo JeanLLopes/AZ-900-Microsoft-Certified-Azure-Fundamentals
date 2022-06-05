@@ -203,3 +203,18 @@ Each service on Azure cloud have a different availability SLA
 - **FD - Fault Domain**: Is the same saparation presented above, but in Fault Domain yours machines is on another Physical Rack
 
 ![image](https://k21academy.com/wp-content/uploads/2020/03/cdc20fb1fcdfaa89056821c5271332b9.png)
+
+<br>
+
+## Availability Zone
+- Each region in Azure have three zones or datacenter, for example in Brazil South, you have three zones or datacenter. 
+- When you configure a new zone availaility you basicaly separate your application for another zone, not is a replica
+- Each zone are in the same region, but in another physical address
+
+![image](https://docs.microsoft.com/en-us/azure/availability-zones/media/az-overview/az-graphic-two.png)
+
+> Zone = Datacenter
+
+___
+
+### Resource Group
