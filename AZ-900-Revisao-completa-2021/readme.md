@@ -219,6 +219,8 @@ ___
 
 ## Organize Resources on Azure 
 
+<br>
+
 ![image]([https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png](https://miro.medium.com/max/748/1*USCA8A7mswYlM_QR98jTfA.png))
 
 <br>
@@ -234,6 +236,9 @@ Basically is a container for manager and aggregate your resources in same unity
 
 ### Resource
 Bassicaly is a each component ou service on Azure
+
+<br>
+
 ![image](https://adinermie.com/wp-content/uploads/2018/08/Azure-Subscription-Management.png)
 
 <br>
@@ -253,3 +258,8 @@ Is responsable to manager each susbscription, is responsable to apply rules or p
 - 10K manager group can use in one sigle directory
 - The subscription inherit policies and rules
 - ![image](https://docs.microsoft.com/en-us/azure/governance/management-groups/media/tree.png)   
+
+<br>
+
+___
+
