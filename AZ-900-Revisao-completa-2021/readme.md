@@ -300,5 +300,19 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Is a private conection
     - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
     - Is more expensive
-  - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png) 
-           
+  - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png)
+
+- **Azure Storage Service**
+- Provide phisical space to save your datas in file mode
+  - **Container storage (blob)**:
+    - Not need phisical separations by folder for example
+    - Is recommended to a large quantities of files
+    - Save files not structured
+    - Save VHD (virtual image machine custumizeds)
+    - Is more commum used in application
+  - **Disk Storage**:
+    - Disk storage is created inside a container storage, you not see this you only see the disk storage   
+  - **Azure File**:
+    - you can access by SMB(port 445) or exmplorer in windows using //D:/public/etc... for example    
+- ![image](https://i0.wp.com/eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/blooob.png?resize=585%2C258&ssl=1)  
+ 
