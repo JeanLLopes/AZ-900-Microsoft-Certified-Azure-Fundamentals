@@ -290,3 +290,15 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Pooled: in the same session you can provide access for more one peolple in the same machine
     - Personal: each people have one session
     - ![image](https://i.ytimg.com/vi/6MrQxBsgSL0/mqdefault.jpg)
+
+- **Azure Networking Service**
+  - ![image](https://docs.microsoft.com/pt-br/azure/expressroute/media/expressroute-howto-coexist-resource-manager/scenario1.jpg)
+  - You create a network to comunication resources on cloud or out off cloud
+  - **Azure Virtual Network (VNet)**: allows to Azure resources communication eacth others, using internet or local network        
+  - **Virtual Private Network (VPN)**: allows encripted communication betwheen Azure and a local network or another cloud by internet         
+  - **Azure Express Route**: extends local network to azure by a private connection, by wireles or fibre
+    - Is a private conection
+    - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
+    - Is more expensive
+  - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png) 
+           
