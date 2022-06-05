@@ -188,5 +188,18 @@ Follow pairs list below:
 
 
 ___
-https://youtu.be/DlfDKhFb1XU?t=3815
 
+## High Disponibility in Azure Cloud
+Each service on Azure cloud have a different availability SLA
+
+![image](https://docs.microsoft.com/en-us/azure/architecture/high-availability/images/high-availability-004.png)
+
+>**SLA**: Service Level Agreement
+
+### UD and FD 
+- **UD - Update Domain**: when you create a a virtual machine on Azure Cloud, you can add a Update Domain, this is second Virtual Machine created on another virutal machine used when the Microsft need down your first Virtual Machine in other virtual machine. When Microsoft need install updates or make manutanance in your primary virtual machine your application is automatically applied in other virtual machine.
+- Microsoft starting updates in sequencial for update domain.
+
+- **FD - Fault Domain**: Is the same saparation presented above, but in Fault Domain yours machines is on another Physical Rack
+
+![image](https://k21academy.com/wp-content/uploads/2020/03/cdc20fb1fcdfaa89056821c5271332b9.png)
