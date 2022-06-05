@@ -263,3 +263,14 @@ Is responsable to manager each susbscription, is responsable to apply rules or p
 
 ___
 
+## Core Workloads
+
+### Azure Computer Service
+Is a service on Azure to provede a computacional services for demmand, for examples, storage, processors, memory, network and operational system
+
+- **APP Service**:
+  - Is a Paas service
+  - compatible with .NET, .NET Core, Node, JAVA, Python or PHP
+  - Is especific to provide web sites or api' s quickly
+
+-    
