@@ -217,4 +217,34 @@ Each service on Azure cloud have a different availability SLA
 
 ___
 
+## Organize Resources on Azure 
+
+![image]([https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png](https://miro.medium.com/max/748/1*USCA8A7mswYlM_QR98jTfA.png))
+
+<br>
+
 ### Resource Group
+Basically is a container for manager and aggregate your resources in same unity   
+- Is basically a logic separation
+- Is the way to separate your resources in a group
+- You can group a diferents resources to differents regions in the same resource group  
+- ![image](https://static.packt-cdn.com/products/9781789617580/graphics/assets/0a0e0cdb-e4db-44b4-addb-087c940b469f.png)
+
+<br>
+
+### Resource
+Bassicaly is a each component ou service on Azure
+![image](https://adinermie.com/wp-content/uploads/2018/08/Azure-Subscription-Management.png)
+
+<br>
+
+### Subscription
+Is a account on Azure, provide authentication and authorization on Azure Cloud
+- You can seaparate invoices or bills byt subscriptions
+- Manage access control by subscription
+- ![image](https://docs.microsoft.com/pt-br/azure/role-based-access-control/media/transfer-subscription/transfer-subscription.png)
+
+<br>
+
+
+
