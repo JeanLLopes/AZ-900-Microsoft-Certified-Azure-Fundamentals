@@ -281,3 +281,12 @@ Is a service on Azure to provede a computacional services for demmand, for examp
   - Is a Paas service
   - **Azure Container Service**: Is Paas service to execute one container on Azure without manager
   - **Azure Kubernetes Service**: Is a service to orchestration for container adopted for Microsoft on cloud, os recommended to distributed aplications with large volume access  
+  - ![image](https://miro.medium.com/max/1400/1*iz-rfmRCryqAoaDWiUWfqA.png)
+
+- **Azure Virtual Desktop or Windowa Virtual Desktop**
+  - Pulled or Personal
+  - Is a virtualization to desktop in cloud
+  - You have a two types of this service: **Pooled** or **Personal**
+    - Pooled: in the same session you can provide access for more one peolple in the same machine
+    - Personal: each people have one session
+    - ![image](https://i.ytimg.com/vi/6MrQxBsgSL0/mqdefault.jpg)
