@@ -359,3 +359,7 @@ Is a service on Azure to provede a computacional services for demmand, for examp
 
 > All service see above run in Daas (database as a Service) or Paas (Plataform as a Service) service, if you need anothe database service, for example Oracle Database, you need create a new machine, install and manager is resource
  
+<br>
+
+## **Azure Soluctions**
+https://youtu.be/DlfDKhFb1XU?t=7410
