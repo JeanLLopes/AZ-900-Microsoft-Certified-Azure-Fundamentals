@@ -334,4 +334,28 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Is cheaper to record but more expensive to read
   - ![image](https://miro.medium.com/max/836/1*bzXpvxmhmSSnB5iZ3i_upQ.png)
 
+<br>
+
+- **Azure Database Services**
+- ![image](https://microsoft.github.io/AzureTipsAndTricks/files/81optionscompared.png)
+  - Azure Database Cosmos DB (NoSQL)
+    - Is the database more distribuited globaly on Azure Cloud
+    - Has automatilly scalability independent of throughput and storage
+
+  - Azure Database SQL Database
+    - Is a Paas service, available with the last version of SQL database
+
+  - Azure Database SQL Managed Instance
+    - This type is based on service **Azure Database SQL Database** and you have the same beneficies (automaticaly updates, backups, hight availability)
+    - Best choice if you do not feel security to import you data, procedures, trigger to cloud
+    - You have full access to network for access you database, if you need Liked Server 
+    - You can choise the database version 
+    - ![image](https://blog.pythian.com/wp-content/uploads/azuresql.png)
+ 
+  - Azure Database MySQL
+  - Azure Database Postgre SQL 
+
+<br>
+
+> All service see above run in Daas (database as a Service) or Paas (Plataform as a Service) service, if you need anothe database service, for example Oracle Database, you need create a new machine, install and manager is resource
  
