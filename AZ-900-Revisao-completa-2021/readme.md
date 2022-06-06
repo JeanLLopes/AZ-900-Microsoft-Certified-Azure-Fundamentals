@@ -314,5 +314,24 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Disk storage is created inside a container storage, you not see this you only see the disk storage   
   - **Azure File**:
     - you can access by SMB(port 445) or exmplorer in windows using //D:/public/etc... for example    
-- ![image](https://i0.wp.com/eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/blooob.png?resize=585%2C258&ssl=1)  
+- ![image](https://i0.wp.com/eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/blooob.png?resize=585%2C258&ssl=1) 
+
+<br>
+
+- **Azure Storage account tiers**
+  - When you work if Azure storage you pay the consumed based in two informations, **Quantity of record** and **Quantity of reading** 
+  - **HOT**:
+    -  Best choice if your file as high frequency to consume
+    -  Is more expensive
+    -  Is more exprensive to record, more cheaper to read    
+  - **COOL**:
+    - Best choice if your file is access with hfrequency during firt thirty days 
+    - Is intermediate cost
+    - Is intermediate cost to record and intermediate cost to read
+  - **ARCHIVE**:
+    - Best choice if your data no need imediate access
+    - When you need a file you need request and in ten hours you have a response, because you data are migrated to another server and the file your data pass by process calling dehydration
+    - Is cheaper to record but more expensive to read
+  - ![image](https://miro.medium.com/max/836/1*bzXpvxmhmSSnB5iZ3i_upQ.png)
+
  
