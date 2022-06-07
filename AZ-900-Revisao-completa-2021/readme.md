@@ -431,3 +431,20 @@ The follow services read many telemetry
 
 <br>
 
+### Serverless computation
+
+### Azure Functions
+- Is a SaaS smoluction, 
+- Provide that infrastucture to run a code when configured a trigger, for example (email, event, HTTP request, ...)
+- Is the best soluction when you have a code needs running in espeficic times, or from a trigger
+
+<br>
+
+### Azure Logic Apps
+- Is a SaaS soluction.
+- Provide orchestration for taks in cloud, calling anothers services or integrations.
+- Is the best choice when you need an orchestration in your tasks from a trigger.
+
+<br>
+
+
