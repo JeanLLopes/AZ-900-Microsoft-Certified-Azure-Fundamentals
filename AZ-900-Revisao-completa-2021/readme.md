@@ -383,3 +383,51 @@ The follow services read many telemetry
 ### Azure Sphere
 - What the certification, update anda manager certificates
 - Manage cryptografy
+
+<br>
+
+### Big Data and Analytics
+
+### Azure Synapse Analytics
+- Is based in Data Warehouse
+- Works with SQL language
+- Is a SQL Cluster 
+- is the best choice when you a structured datas
+
+<br>
+
+### Azure HDInsight
+- Is the best choice when you have not structured data
+- Is based in Data Warehouse
+- Is a Cluster 
+ 
+<br>
+
+### Azure Databricks
+- Is the most high level for Data Analytics
+- Have a more computational power
+- Works with apache clusters
+- The Databricks undestand what informations you need and create news cluster during the job, when the data analytics job end he is responsable to unprovision this clusters
+
+<br>
+
+### Artificial Intelligence and Machine Learning
+
+### Azure Machine Learning
+- Based in cloud is a SaaS soluction to works with machine learning
+- Is responsable to traine and implement machine learning models
+
+<br>
+
+### Cognitive Services
+- Is a Saas soluction
+- Provide easear integration for applcations to understand talk, listening and understand any needs
+  
+<br>
+
+### Azure Bot Service
+- Is a SaaS soluction 
+- Provide tools to create bots, in personal or corporative level
+
+<br>
+
