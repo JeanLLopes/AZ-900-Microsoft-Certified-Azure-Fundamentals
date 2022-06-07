@@ -362,4 +362,24 @@ Is a service on Azure to provede a computacional services for demmand, for examp
 <br>
 
 ## **Azure Soluctions**
-https://youtu.be/DlfDKhFb1XU?t=7410
+The follow services read many telemetry
+
+<br>
+
+### Azure IoT Central
+- Is a SaaS soluction 
+- Is responsable to manager all IoT devices enables 
+- Make connections more easier
+
+<br>
+
+### Azure IoT HUB
+- Is a Saas soluction
+- Is responsable to manage all messages exchanged by devices and other soluction, for example IoT Central
+- This soluction manager  bidirectional communication 
+
+<br>
+
+### Azure Sphere
+- What the certification, update anda manager certificates
+- Manage cryptografy
