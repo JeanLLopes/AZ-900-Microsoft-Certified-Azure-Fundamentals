@@ -583,3 +583,6 @@ Azure Defender is available for this applications:
 > **Azure Arc** provides a centralized and unified way to: Manage your entire environment by projecting existing non-Azure and/or on-premises resources into Azure Resource Manager. Manage virtual machines, Kubernetes clusters and databases as if they were running on Azure
 
 ![image](https://docs.microsoft.com/pt-br/azure/security-center/media/azure-defender/sample-defender-dashboard.png)
+
+
+https://youtu.be/DlfDKhFb1XU?t=10311
