@@ -543,7 +543,9 @@ Evaluate problems in Azure Cloud. Make available for all customer if has identif
 
 ___
 
-### **Azure Security Tools and Features**
+## **Azure Security Tools and Features**
+
+### Azure Security Center
 
 Is a layer based on monitoring and configurations of security. Security Central colect events of the Azure and log analitycs and correlates them to make susgestions in your **Cloud Advisor Service** 
 
@@ -558,3 +560,26 @@ Is a layer based on monitoring and configurations of security. Security Central 
 ![image](https://docs.microsoft.com/pt-br/azure////security-center/media/security-center-recommendations/asc-overview.png)
 
 <br>
+
+### Azure Defender
+
+Monitoring actively your resources and try identify any security failure or vunerability in your Cloud. Make available for client reports and alets if find any problem. 
+
+This service analyse behavior 
+
+Have aditional cost
+
+Azure Defender is available for this applications:
+- Applications Services
+- Storage
+- SQL
+- Key Vault
+- Resource Manager
+- DNS
+- Kubernetes
+- Container Registry
+- Thsi service can be used in server out of cloud, through **Azure Arc**
+
+> **Azure Arc** provides a centralized and unified way to: Manage your entire environment by projecting existing non-Azure and/or on-premises resources into Azure Resource Manager. Manage virtual machines, Kubernetes clusters and databases as if they were running on Azure
+
+![image](https://docs.microsoft.com/pt-br/azure/security-center/media/azure-defender/sample-defender-dashboard.png)
