@@ -480,9 +480,15 @@ ___
 Basically is a tools available for Microsoft for oyou connect in your cloud and make operations. All Tools below are available in **Azure Resource Manager (ARM)**
 
 - Azure Portal
-- Azure PowerShell = Windows, Linux (you need Powersheel core) and Mac (you need Powersheel core)) 
-- Azure Cloud Shell = is a PowerShell running in cloud
-- Azure Mobile App = is an app to manage your cloud  
+- Azure PowerShell
+  - Windows, Linux (you need Powersheel core) and Mac (you need Powersheel core)) 
+
+- Azure Cloud Shell
+  - is a PowerShell running in cloud
+
+- Azure Mobile App
+  - is an app to manage your cloud  
+
 - Azure REST API
 
 ![image](https://i.ytimg.com/vi/L_hEslzBr2o/maxresdefault.jpg)
@@ -501,5 +507,54 @@ Is a resource that analisy in your cloud all Azure Resources and recommends best
 
 > This tools only recommend, to apply this recommendations you need enter in Portal and make adjusts
 
+<br>
 
-https://youtu.be/DlfDKhFb1XU?t=9048
+### Azure Monitor
+Is a resource available to colect, analyse and make telemetry in oyour applications in Cloud, the principal tools are:
+
+- Application Insights
+  - make analisys on application
+
+- Logs Analytics
+  - Capture logs for your application
+     
+- Smart Alerts
+  - Create alerts for your resources or applications 
+
+- Automation Actions
+  - Make actions based on your applications or cloud resources, for example, "sent an e-mail when have error log in application XYZ..."  
+
+- Customized Dashboard
+  - Is a tool to create dashboard
+  - You can integrated with Grafana or Kibana   
+  
+![image](https://docs.microsoft.com/pt-br/azure/azure-monitor/media/data-platform/overview.png)
+
+<br>
+
+### Azure Service Heath
+
+Evaluate problems in Azure Cloud. Make available for all customer if has identified any problem in Azure Cloud and make available reports with more technical details
+- Comunication about crash or stop services in Azure Cloud
+- Planned manutence
+- Others advices about health
+
+![image](https://www.partech.nl/publication-image/%7B299B31CA-3E87-4103-A989-A9652136AE88%7D)
+
+___
+
+### **Azure Security Tools and Features**
+
+Is a layer based on monitoring and configurations of security. Security Central colect events of the Azure and log analitycs and correlates them to make susgestions in your **Cloud Advisor Service** 
+
+- Make a score about your cloud, calling **Security Score**
+- Secutiry Center is integrated in Azure Advisor
+- You can pay if you identify that you need more monitoring in yours applications or resources
+
+![image](https://docs.microsoft.com/pt-br/azure/defender-for-cloud/media/alerts-overview/security-center-detection-capabilities.png)
+
+<br>
+
+![image](https://docs.microsoft.com/pt-br/azure////security-center/media/security-center-recommendations/asc-overview.png)
+
+<br>
