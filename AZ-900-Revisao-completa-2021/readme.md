@@ -485,5 +485,21 @@ Basically is a tools available for Microsoft for oyou connect in your cloud and 
 - Azure Mobile App = is an app to manage your cloud  
 - Azure REST API
 
+![image](https://i.ytimg.com/vi/L_hEslzBr2o/maxresdefault.jpg)
+
+<br>
+
+### Azure Advisor
+Is a resource that analisy in your cloud all Azure Resources and recommends best pratices based on Microsoft recomedations to optimize you Cloud, this recommendations is based on:
+- Reliability
+- Security
+- Performance
+- Cost
+- Operation Excellence
+
+![image](https://docs.microsoft.com/pt-br/azure/advisor/media/advisor-overview/advisor-dashboard.png)
+
+> This tools only recommend, to apply this recommendations you need enter in Portal and make adjusts
+
 
 https://youtu.be/DlfDKhFb1XU?t=9048
