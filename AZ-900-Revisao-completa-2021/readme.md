@@ -451,20 +451,39 @@ The follow services read many telemetry
 Is a integrations between developers and infrastructure
 
 ### Azure DevOps
+- Tools to colaborate and development your applications, including pipelines, Kanban and automaticaly tests based on cloud 
 
 <br>
 
 ### GitHub
+- Version control for your source-code
+- Open source
+- Manager tasks, bugs, ... 
 
 <br>
 
 ### GitHub Actions for Azure
+- Automate workflow to build, test and deploy your application
 
 <br>
 
 ### Azure DevTest Labs
+- In this lab you can use your *Azure credits* to provide machines or infrastructure in cloud and use to test your applications
+  - **Azure credits** = you win this credits all months, is a bonus tipe offer for Microsoft for your clients
+
 
 <br>
+
+___
+
+## **Azure Manager Tools**
+Basically is a tools available for Microsoft for oyou connect in your cloud and make operations. All Tools below are available in **Azure Resource Manager (ARM)**
+
+- Azure Portal
+- Azure PowerShell = Windows, Linux (you need Powersheel core) and Mac (you need Powersheel core)) 
+- Azure Cloud Shell = is a PowerShell running in cloud
+- Azure Mobile App = is an app to manage your cloud  
+- Azure REST API
 
 
 https://youtu.be/DlfDKhFb1XU?t=9048
