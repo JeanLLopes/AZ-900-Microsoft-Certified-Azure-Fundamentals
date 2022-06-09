@@ -584,5 +584,22 @@ Azure Defender is available for this applications:
 
 ![image](https://docs.microsoft.com/pt-br/azure/security-center/media/azure-defender/sample-defender-dashboard.png)
 
+<br>
 
-https://youtu.be/DlfDKhFb1XU?t=10311
+### Azure Sentinel
+
+This soluction, is a native in Azure Cloud and using **Security Informations Events Manager(SIEM)** and **Security Orquestration Automaticaly Response(SOAR)** to making monitoring activily an specific resource in your cloud, and using IA to identify if any problem in your cloud, this follow the specific analyse flow:
+- Collect
+  - Collect all data in a cloud, or an specific resource logs, transactions, logins, ...
+- Detect
+  - With a data this soluctins identify whats is the normal resource usage, and with this he can identify any unusual behavior 
+- Investigation
+  - This soluction start investigations, analyzing this unusually behavior wit IA 
+- Response
+  - If has identify any problem this soluctions proactively enable new layer of security, creating a new rule in firewall, close a specific door in your machine or creating a ticket in your ticket manager.
+
+<br>
+
+![image](https://www.reimling.eu/wp-content/uploads/2019/09/Azure-Sentinel-logo1-672x372.png)
+
+
