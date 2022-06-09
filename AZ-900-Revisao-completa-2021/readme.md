@@ -621,5 +621,15 @@ Manage and storage secrets and certifications giving more security  and  permiss
 
 ### Azure Dedicated Host
 
+Is a phisical server dedidcated for a specific company and dedicated to big workload, folow the beneficies
+
+- Isolated hardware in server level
+- Control about manutence time 
+- Aligned with Azure Hybrid Cloud
+
+![image](https://cache404.net/wp-content/uploads/2020/08/image-7-1024x487.png)
+
+<br>
+
 
 
