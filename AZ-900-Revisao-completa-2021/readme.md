@@ -631,5 +631,35 @@ Is a phisical server dedidcated for a specific company and dedicated to big work
 
 <br>
 
+### Network Security Group (NSGs) (Mini Firewall)
+
+- Do not has high availability
+- NSGs is a minimal firewall with focus in IP list
+- The principal function is filter the traffic an specific resource, with block or unblock actions
+- Contain rules to **Inbound** and **Outbound**
+- Works with IP list
+- Can be associate to Subnet or NIC (VM network board)
+- Is recomend associate an NSG to a Subnet and only specific cases connect to an NIC
+- ![image](https://www.azureexperts.com.br/wp-content/uploads/2019/12/123.png)
+- ![image](https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png)
+
+
+<br>
+
+### Azure Firewall
+
+- High availability
+- Is possible create, register and centralizer policies 
+- Provide a public IP static for yours resources in virtual network, manke possible others server identify your trafic.
+- Is integrated to Azure Monitor to log registry and analisy
+- ![image](https://docs.microsoft.com/pt-br/azure/firewall/media/overview/firewall-premium.png)
+
+<br>
+
+____
+
+## **Core Azure Identity Services**
+
+
 
 
