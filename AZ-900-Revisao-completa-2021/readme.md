@@ -689,3 +689,15 @@ Provide follow services
 - Authetication with cell phone token, sms message, pendrive, ... 
 
 <br>
+
+### Condictional Access
+
+Is a service usage in Azure Directory for union informations about your network and make decision to apply more or less policies during Authetication and Authorization, for example if you work in home but in a specific day you are to office on the office you do not need MFA Authorization.
+
+You can apply follow rules
+- User or group membership
+- Ip Location
+- Devices
+- Apllication
+- Risk Detection
+- ![image](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/media/overview/conditional-access-overview-how-it-works.png)
