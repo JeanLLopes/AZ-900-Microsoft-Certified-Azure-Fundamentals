@@ -602,4 +602,24 @@ This soluction, is a native in Azure Cloud and using **Security Informations Eve
 
 ![image](https://www.reimling.eu/wp-content/uploads/2019/09/Azure-Sentinel-logo1-672x372.png)
 
+<br>
+
+### Azure Key Vault
+
+Manage and storage secrets and certifications giving more security  and  permissions to access control of this informations.
+
+- Manage Secrets
+- Manage Keys
+- Manage Certifications
+- Storage secrets based in security hardware (HSMs)
+
+<br>
+
+![image](https://docs.microsoft.com/pt-BR/azure/architecture/reference-architectures/n-tier/images/encryption.png)
+
+<br>
+
+### Azure Dedicated Host
+
+
 
