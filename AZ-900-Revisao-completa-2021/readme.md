@@ -660,6 +660,32 @@ ____
 
 ## **Core Azure Identity Services**
 
+Provide Authentication and Authorization
 
+<br>
 
+### Azure Active Directory (similar Local Active Director)
 
+Provide follow services
+
+- Authetication
+  - Employees sign-in to access resources
+
+- Sigle ign-on (SSO)
+- Business to Business(B2B)
+  - Is possible create an guest in your active directory associate your e-mail address 
+  - Betwheen 2 microsoft account
+
+- Business to Customer(B2C) Identity services
+  - Provide Authorization based in Authetications services out of Microsoft, for example Google account
+  - Betwheen service out of microsoft (Google, Facebook,.. ) 
+
+- Device Manager
+  - Authetication or Authorization with an pendrive   
+
+<br>
+
+### Azure Multi-Factor Authentication - MFA
+- Authetication with cell phone token, sms message, pendrive, ... 
+
+<br>
