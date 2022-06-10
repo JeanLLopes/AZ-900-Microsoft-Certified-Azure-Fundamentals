@@ -723,7 +723,7 @@ Manager access on Cloud, enable access to portal and resource controls, we have 
 
 ### Rosurce Locks
 
-Protect you resource againt delete accidental, manage lock by assinature, groups of resources or individual resources in Azure Portal. The Lock Resource reply inheritance for your childs, for example if you apply this lock in one resource it is propagates for your childs.
+Protect you resource againt delete accidental, manage lock by assinature, groups of resources or individual resources in Azure Portal. The Lock Resource reply inherance for your childs, for example if you apply this lock in one resource it is propagates for your childs.
 You have a follow **Lock Types**:
 
 - CanNotDelete
@@ -738,4 +738,15 @@ You have a follow **Lock Types**:
 
  <br>
 
-### Rosurce Locks
+### TAG' s
+
+- You can Aplly a _tag_ in an specific resource.
+- TAG is by resource, not apllied with inherance
+- must used to separate cost center for especific departament
+- is created based in key : value, for example: "cost-center":"marketing"
+
+ <br>
+
+### Azure Policies
+
+- 
