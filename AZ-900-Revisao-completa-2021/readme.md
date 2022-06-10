@@ -742,11 +742,15 @@ You have a follow **Lock Types**:
 
 - You can Aplly a _tag_ in an specific resource.
 - TAG is by resource, not apllied with inherance
-- must used to separate cost center for especific departament
-- is created based in key : value, for example: "cost-center":"marketing"
+- Must used to separate cost center for especific departament
+- Is created based in key : value, for example: "cost-center":"marketing"
 
  <br>
 
-### Azure Policies
+### Azure Policies (AAD)
 
-- 
+- Helps the create organizational rules to evaluate the scale for resources.
+- Is possible apply in a signature
+- Determine an limnit to create new resources, based in categories, Storage, Network, computational, Security and Monitoring
+- ![image](https://i.ytimg.com/vi/obWeyLHWQIY/maxresdefault.jpg)
+
