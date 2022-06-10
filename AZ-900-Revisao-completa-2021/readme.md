@@ -701,3 +701,23 @@ You can apply follow rules
 - Apllication
 - Risk Detection
 - ![image](https://docs.microsoft.com/pt-br/azure/active-directory/conditional-access/media/overview/conditional-access-overview-how-it-works.png)
+
+<br>
+
+### Explorer Role-Based Access Control (RBAC)
+
+Manager access on Cloud, enable access to portal and resource controls, we have follow principal permissions:
+
+- Owner
+  - can make any changes in cloud
+ 
+- Contributor
+  - Have acces to reade, write, but do not grant access for anothers developers
+
+- Reader
+ - Can only read resources, can't make any modification.
+
+- ![image](https://i.ytimg.com/vi/E0XDci4_kQk/maxresdefault.jpg) 
+
+ 
+ 
