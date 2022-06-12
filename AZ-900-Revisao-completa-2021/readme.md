@@ -847,3 +847,33 @@ You have a follow **Lock Types**:
 <br>
 
 > You can access [Azure Region Price](https://azureprice.net/regions), to see cost of resource in each region on has Azure Clound, saving money for each resource
+
+<br>
+
+### Total Cost Ownership Calcular
+
+- Is an service available on Azure Portal, to estimate how much will be saving moving to Azure Cloud, how more information you specified in this service more assertive is your estimation
+- ![image](https://i0.wp.com/www.sustainablepurchasing.org/wp-content/uploads/2016/09/TCO-graphic-SH.png?resize=400%2C400&ssl=1)
+
+<br>
+
+### Azure Cost Management
+
+- When yo manage all information about your cost on cloud
+- you can define:
+  - Reports
+  - Budgets
+    - If you set an Budget, and you exceds thsi budget the azure not stop your service, only send notifications about your budget 
+  - Alerts
+  - Reccomendations 
+- ![image](https://assets.spot.io/app/uploads/2021/03/24145411/pasted-image-0-1-1.png)
+ 
+<br>
+
+### Service Level Agreements (SLA)
+
+- Free resource dont have SLA
+- Previous resources dont have SLA
+- All SLA' s based on resources
+- SLA' s based on individual resources
+- ![image](https://unascimento.files.wordpress.com/2020/01/azureresilienceservices4.png)
