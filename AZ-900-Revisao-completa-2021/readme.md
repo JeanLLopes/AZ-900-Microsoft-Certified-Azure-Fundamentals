@@ -776,5 +776,43 @@ You have a follow **Lock Types**:
 - [Official Link](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/)
 - ![image](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/_images/caf-overview.png)
 
+ <br>
 
+## **Policy, Compliance and Data Protection**
 
+- More information about [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) and [LGPD](https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Prote%C3%A7%C3%A3o_de_Dados).
+
+- Azure Cloud has many certifications about data protections
+- Azure is co-responsable about data tranfering in your cloud
+- Azure has access on your cloud only to manage resources and collect data to analisy for recommend best pratices and best perfomance 
+- Azure make available one portal to recommend best pratices, based on all clients
+  - [Azure Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview)
+
+<br>
+
+![image](https://files.tecnoblog.net/wp-content/uploads/2018/04/gdpr.jpg)
+
+<br>
+
+![image](https://blog.tactium.com.br/wp-content/uploads/2020/09/banner-LGPD.jpg)
+
+ <br>
+
+### Sovereign Regions (US Government Services)
+
+- Is servers phisicaly separates of the public Azure servers
+- Are services for gorvernance of country, states or counties
+- Phisically available on american states  
+
+<br>
+
+### Sovereign Regions (Azure China)
+
+- Azure is the first american cloud provide, certificates to operate with governament services on China
+- Servers phisically separate of public Azure
+- Operated by **21Vianet**
+- All data is processing and operated on China country, following conform rules.
+
+<br>
+
+## **Plan and Cost Management** 
