@@ -754,3 +754,27 @@ You have a follow **Lock Types**:
 - Determine an limnit to create new resources, based in categories, Storage, Network, computational, Security and Monitoring
 - ![image](https://i.ytimg.com/vi/obWeyLHWQIY/maxresdefault.jpg)
 
+ <br>
+
+### Azure Blueprint
+
+- Make possible that developers create scripts to provide environments, on business and organizational rules applied, using templates
+- make easilly provide:
+  - Role assigniment
+  - Policy assignment
+  - Resource manager
+  - Resource group
+- ![image](https://wedoazure.files.wordpress.com/2019/03/blueprints.png?w=800) 
+ 
+
+ <br>
+
+### Cloud Adoption Framework (CAF)
+
+- Best to pratices to migrate from cloud, available by Azure
+- Who migrate services, best names, best tags, best resources, who apply governance, monitoring, ... all best pratices
+- [Official Link](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/)
+- ![image](https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/_images/caf-overview.png)
+
+
+
