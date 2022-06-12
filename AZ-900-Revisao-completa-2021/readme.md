@@ -816,3 +816,34 @@ You have a follow **Lock Types**:
 <br>
 
 ## **Plan and Cost Management** 
+
+<br>
+
+### Factor Affecting Costs
+- 1: Resource Type
+  - Each resorce have an value to use 
+
+- 2: Service
+  - Azure usege tax
+  - Periods to bill (monthly, anually, ondemmand, .. ), in general contracts most biggest, for example 10 years have more discount
+
+- 3: Location
+  - Each region on cloud have one cost, for example Brazil is more expensive to United State, because the governament taxes, cost manutence and energy
+
+- 4: Bandwidth
+  - Inboud to azure not have cost, outbound have cost
+
+- 5: Reservated Instance
+  - If you reserve some instance of SQL machine for 1 year or 10 years, you can have discount about this resource, you can see this discount on [Azure Calculator](https://azure.microsoft.com/pt-br/pricing/calculator/)
+  - The discount is applied on computional cost, all licenses dont have discount, for example if oyou need a SQL instance for 10 years, your discount is based on machine not on SQL Server Lincence.
+
+- 6: Azure Hibryd Use Beneficies
+  - You can apply a on-premisse licence in cloud, for example, if you had a SQL Server Lincence you can use the same Licence on Instance SQL in Cloud saving of your cost the SQL Server lincence
+
+<br>
+
+> You can access [Azure Latency Speed](https://www.azurespeed.com/Azure/Latency) to verify the latency of your resource in diffents regions on Azure Cloud
+
+<br>
+
+> You can access [Azure Region Price](https://azureprice.net/regions), to see cost of resource in each region on has Azure Clound, saving money for each resource
