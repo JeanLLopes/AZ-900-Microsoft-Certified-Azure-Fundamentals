@@ -877,3 +877,21 @@ You have a follow **Lock Types**:
 - All SLA' s based on resources
 - SLA' s based on individual resources
 - ![image](https://unascimento.files.wordpress.com/2020/01/azureresilienceservices4.png)
+
+<br>
+
+### Azure Preview Program
+
+While a service is on preview, this service dont have SLA
+
+- Private Preview
+  - Available only specific clients on Azure 
+- Public Preview
+  - All clients on Azure can evaluate this resources
+- Generally available (GA)
+  - After a Public Preview is complete, all customer have access for this service
+  - Service region availability can vary
+- ![image](https://docs.microsoft.com/en-us/azure/devops/project/navigation/media/preview-features/preview-features-user.png?view=azure-devops)
+<br>
+
+
