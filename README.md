@@ -33,9 +33,8 @@ ___
 
 ### Youtube
 
-- [ ] [Youtube AZ-900 Azure Fundamentals Certification Course Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [x] [Youtube AZ-900 Azure Fundamentals Certification Course Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [x] [AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU&t=3356s)
-- [ ] [Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
 
 ___
 
@@ -44,6 +43,7 @@ ___
 - [ ] [fdicarlo/AZ-900](https://github.com/fdicarlo/AZ-900)
 - [ ] [davidcervigonluna/AZ-900FAQ](https://github.com/davidcervigonluna/AZ-900FAQ)
 - [ ] [AzureMentor/Azure-AZ-900-Study-Guide](https://github.com/AzureMentor/Azure-AZ-900-Study-Guide)
+- [ ] [guia-estudo-az900](https://github.com/ricmmartins/guia-estudo-az900)
 
 ____
 
