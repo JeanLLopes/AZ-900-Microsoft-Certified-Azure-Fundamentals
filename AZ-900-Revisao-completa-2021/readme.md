@@ -313,7 +313,7 @@ Is a service on Azure to provede a computacional services for demmand, for examp
   - **Disk Storage**:
     - Disk storage is created inside a container storage, you not see this you only see the disk storage   
   - **Azure File**:
-    - you can access by SMB(port 445) or exmplorer in windows using //D:/public/etc... for example    
+    - you can access by SMB(port 445), NFS Protocol or exmplorer in windows using //D:/public/etc... for example    
 - ![image](https://i0.wp.com/eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/blooob.png?resize=585%2C258&ssl=1) 
 
 <br>
