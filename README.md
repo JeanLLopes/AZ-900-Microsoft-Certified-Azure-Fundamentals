@@ -47,4 +47,16 @@ ___
 
 ____
 
+### Simulate
+
+- [ ] [thomasmitchell.net](https://thomasmitchell.net/az-900-mock-exam/)
+- [ ] [examtopics.com](https://www.examtopics.com/exams/microsoft/az-900/view/2/)
+- [ ] [itexams.com](https://www.itexams.com/exam/AZ-900)
+- [ ] [testpreptraining.com](https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test)
+- [ ] [cciedump.spoto.net](https://cciedump.spoto.net/online/exam.php?microsoft-az-900)
+
+
+____
+
+
 >**RDP** Remote Desktop Protocol (ou somente RDP) é um protocolo multi-canal que permite que um usuário se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das versões do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padrão a porta TCP 3389
