@@ -40,20 +40,20 @@ ___
 
 ### Github
 
-- [ ] [fdicarlo/AZ-900](https://github.com/fdicarlo/AZ-900)
-- [ ] [davidcervigonluna/AZ-900FAQ](https://github.com/davidcervigonluna/AZ-900FAQ)
-- [ ] [AzureMentor/Azure-AZ-900-Study-Guide](https://github.com/AzureMentor/Azure-AZ-900-Study-Guide)
-- [ ] [guia-estudo-az900](https://github.com/ricmmartins/guia-estudo-az900)
+- [x] [fdicarlo/AZ-900](https://github.com/fdicarlo/AZ-900)
+- [x] [davidcervigonluna/AZ-900FAQ](https://github.com/davidcervigonluna/AZ-900FAQ)
+- [x] [AzureMentor/Azure-AZ-900-Study-Guide](https://github.com/AzureMentor/Azure-AZ-900-Study-Guide)
+- [x] [guia-estudo-az900](https://github.com/ricmmartins/guia-estudo-az900)
 
 ____
 
 ### Simulate
 
-- [ ] [thomasmitchell.net](https://thomasmitchell.net/az-900-mock-exam/)
-- [ ] [examtopics.com](https://www.examtopics.com/exams/microsoft/az-900/view/2/)
-- [ ] [itexams.com](https://www.itexams.com/exam/AZ-900)
-- [ ] [testpreptraining.com](https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test)
-- [ ] [cciedump.spoto.net](https://cciedump.spoto.net/online/exam.php?microsoft-az-900)
+- [x] [thomasmitchell.net](https://thomasmitchell.net/az-900-mock-exam/)
+- [x] [examtopics.com](https://www.examtopics.com/exams/microsoft/az-900/view/2/)
+- [x] [itexams.com](https://www.itexams.com/exam/AZ-900)
+- [x] [testpreptraining.com](https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test)
+- [x] [cciedump.spoto.net](https://cciedump.spoto.net/online/exam.php?microsoft-az-900)
 
 
 ____
