@@ -196,7 +196,14 @@ Each service on Azure cloud have a different availability SLA
 
 ![image](https://docs.microsoft.com/en-us/azure/architecture/high-availability/images/high-availability-004.png)
 
+
 >**SLA**: Service Level Agreement
+
+- **99,9 %** :  For Single Virtual Machine in premiun storage 
+- **99,95 %**:  For hardware failure in same datacenter
+- **99,99 %**:  For Available zones - protection for al datacenter
+- **0 %** :     For desaster recover 
+  - To enviroament DR ou Desaster Recover you need up your resources in other region, for this task the machine provide minimum of the 2h, don't have max time 
 
 ### UD and FD 
 - **UD - Update Domain**: when you create a a virtual machine on Azure Cloud, you can add a Update Domain, this is second Virtual Machine created on another virutal machine used when the Microsft need down your first Virtual Machine in other virtual machine. When Microsoft need install updates or make manutanance in your primary virtual machine your application is automatically applied in other virtual machine.
