@@ -163,6 +163,8 @@ ___
   - When a new zone is created not all services for Azure Cloud is available in this zone in same time
 - Each region have a different value to maintain your application, because regions governamental fees or taxes, energy cost, and more...
   - US region it's more cheaper 
+- Each region have one or more datacenter next
+  - [infrastructuremap - microsoft](https://infrastructuremap.microsoft.com/) 
 
 ![image](https://powerbiexpert.files.wordpress.com/2022/01/4eb09-image-16.png)
 
