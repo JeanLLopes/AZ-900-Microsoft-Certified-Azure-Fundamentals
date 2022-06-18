@@ -131,7 +131,7 @@ ___
 
 <br>
 
-### Azure Sign 
+### Azure Signature 
 - One account in Azure can have one or more sign
 - Is a good pratice separate each part of your company in diferrents signatures and with technique identify the billing
   - in same accout you can have signature for developers, for maketing and productions, for example...
