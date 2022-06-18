@@ -121,6 +121,16 @@ ___
 
 <br>
 
+<br>
+
+### Manager Groups
+- Manager group is resposable to manage all signatures in Azure Account
+- you can have one more Manager Group
+- Signatures inherit condition by Manager Group
+- ![image](https://i2.wp.com/blog.rajah.ch/wp-content/uploads/2019/06/TVD_Azure_Guidelines_MG.jpg?resize=760%2C563&ssl=1)
+
+<br>
+
 ### Azure Sign 
 - One account in Azure can have one or more sign
 - Is a good pratice separate each part of your company in diferrents signatures and with technique identify the billing
