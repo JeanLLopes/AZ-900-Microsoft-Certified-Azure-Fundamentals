@@ -322,7 +322,15 @@ Is a service on Azure to provede a computacional services for demmand, for examp
 - **Azure Networking Service**
   - ![image](https://docs.microsoft.com/pt-br/azure/expressroute/media/expressroute-howto-coexist-resource-manager/scenario1.jpg)
   
-  - **VPN Gateway** 
+  - You create a network to comunication resources on cloud or out off cloud
+  - **Azure Virtual Network (VNet) / Gateway virtual network**: 
+    - allows to Azure resources communication eacth others, using internet or local network
+    - Used to communite VM' s on sub-network called gateway sub-network
+    - ![image](https://www.cloudmotion.com.br/blog/2021/01/14/azure-transit-vnet/transit-gateway01.png)    
+
+   
+  - **Virtual Private Network (VPN) / VPN Gateway**: 
+    - allows encripted communication betwheen Azure and a local network or another cloud by internet         
     - provide a criptografy comunnication betwhen a virtual network in Azure and local network on public internet, 
     - provide VPN to communication betwhen virtual Azure network and network Microsoft
     - Vitual network can be only one VPN, but one VPN can be any connections
@@ -330,10 +338,7 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/vpn-gateway-howto-point-to-site-resource-manager-portal/point-to-site-diagram.png)
 
 
-  - You create a network to comunication resources on cloud or out off cloud
-  - **Azure Virtual Network (VNet)**: allows to Azure resources communication eacth others, using internet or local network        
-  - **Virtual Private Network (VPN)**: allows encripted communication betwheen Azure and a local network or another cloud by internet         
-  - **Azure Express Route**: extends local network to azure by a private connection, by wireles or fibre
+  - **Azure Express Route / Gateway Express Route**: extends local network to azure by a private connection, by wireles or fibre
     - Is a private conection
     - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
     - Is more expensive
