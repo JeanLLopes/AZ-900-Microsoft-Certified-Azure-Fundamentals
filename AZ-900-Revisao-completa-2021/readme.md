@@ -321,6 +321,15 @@ Is a service on Azure to provede a computacional services for demmand, for examp
 
 - **Azure Networking Service**
   - ![image](https://docs.microsoft.com/pt-br/azure/expressroute/media/expressroute-howto-coexist-resource-manager/scenario1.jpg)
+  
+  - **VPN Gateway** 
+    - provide a criptografy comunnication betwhen a virtual network in Azure and local network on public internet, 
+    - provide VPN to communication betwhen virtual Azure network and network Microsoft
+    - Vitual network can be only one VPN, but one VPN can be any connections
+    - If you create any connections in same VPN, all connectiosn share the bandwidth
+    - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/vpn-gateway-howto-point-to-site-resource-manager-portal/point-to-site-diagram.png)
+
+
   - You create a network to comunication resources on cloud or out off cloud
   - **Azure Virtual Network (VNet)**: allows to Azure resources communication eacth others, using internet or local network        
   - **Virtual Private Network (VPN)**: allows encripted communication betwheen Azure and a local network or another cloud by internet         
