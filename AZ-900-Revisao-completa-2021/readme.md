@@ -335,7 +335,11 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - provide VPN to communication betwhen virtual Azure network and network Microsoft
     - Vitual network can be only one VPN, but one VPN can be any connections
     - If you create any connections in same VPN, all connectiosn share the bandwidth
+    - Connection VPN point-to-site
     - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/vpn-gateway-howto-point-to-site-resource-manager-portal/point-to-site-diagram.png)
+    
+    - Connection VPN Site-to-Site
+    - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/design/vpngateway-site-to-site-connection-diagram.png)
 
 
   - **Azure Express Route / Gateway Express Route**: extends local network to azure by a private connection, by wireles or fibre
@@ -343,6 +347,7 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
     - Is more expensive
   - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png)
+  - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/design/vpngateway-vnet-to-vnet-connection-diagram.png)
 
 - **Azure Storage Service**
 - Provide phisical space to save your datas in file mode
