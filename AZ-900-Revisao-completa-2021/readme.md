@@ -296,6 +296,18 @@ ___
 ### Azure Computer Service
 Is a service on Azure to provede a computacional services for demmand, for examples, storage, processors, memory, network and operational system
 
+<br/>
+
+![image](https://image.slidesharecdn.com/20220210-ifsc-desenvolvimentoazurecsharp-220213220452/85/desenvolvimento-de-aplicaes-para-o-microsoft-azure-utilizando-c-14-320.jpg?cb=1649180044)
+
+<br/>
+
+- **Virtual Machines**
+  - provide a virtual machines for user
+  - is a **IaaS** product type
+  - offer total control access and personalization about machine
+
+
 - **APP Service**:
   - Is a Paas service
   - compatible with .NET, .NET Core, Node, JAVA, Python or PHP
