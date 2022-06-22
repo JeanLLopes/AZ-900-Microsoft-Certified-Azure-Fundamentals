@@ -718,7 +718,7 @@ Is a phisical server dedidcated for a specific company and dedicated to big work
 - The principal function is filter the traffic an specific resource, with block or unblock actions
 - Contain rules to **Inbound** and **Outbound**
 - Works with IP list
-- Can be associate to Subnet or NIC (VM network board)
+- Can be associate to Subnet or NIC (Network interface Card)
 - Is recomend associate an NSG to a Subnet and only specific cases connect to an NIC
 - ![image](https://www.azureexperts.com.br/wp-content/uploads/2019/12/123.png)
 - ![image](https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png)
