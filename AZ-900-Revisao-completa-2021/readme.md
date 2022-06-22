@@ -665,6 +665,8 @@ Azure Defender is available for this applications:
 ### Azure Sentinel
 
 This soluction, is a native in Azure Cloud and using **Security Informations Events Manager(SIEM)** and **Security Orquestration Automaticaly Response(SOAR)** to making monitoring activily an specific resource in your cloud, and using IA to identify if any problem in your cloud, this follow the specific analyse flow:
+Have aditional cost.
+
 - Collect
   - Collect all data in a cloud, or an specific resource logs, transactions, logins, ...
 - Detect
