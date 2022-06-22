@@ -729,9 +729,11 @@ Is a phisical server dedidcated for a specific company and dedicated to big work
 ### Azure Firewall
 
 - High availability
+- Is a service type **FaaS**
 - Is possible create, register and centralizer policies 
 - Provide a public IP static for yours resources in virtual network, manke possible others server identify your trafic.
 - Is integrated to Azure Monitor to log registry and analisy
+- Is more expensive in comparison with F5 (partner firewall available in marketingplace on Azure)
 - ![image](https://docs.microsoft.com/pt-br/azure/firewall/media/overview/firewall-premium.png)
 
 <br>
