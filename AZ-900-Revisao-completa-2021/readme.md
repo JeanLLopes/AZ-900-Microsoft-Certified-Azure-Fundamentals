@@ -429,6 +429,7 @@ The follow services read many telemetry
 - Is a SaaS soluction 
 - Is responsable to manager all IoT devices enables 
 - Make connections more easier
+- Is reponsable to show the information about connected devices.. 
 
 <br>
 
@@ -436,12 +437,14 @@ The follow services read many telemetry
 - Is a Saas soluction
 - Is responsable to manage all messages exchanged by devices and other soluction, for example IoT Central
 - This soluction manager  bidirectional communication 
+- Is reponsable to connect with devices..
 
 <br>
 
 ### Azure Sphere
 - What the certification, update anda manager certificates
 - Manage cryptografy
+- Manage the security about all devices connected in Azure IoT Central
 
 <br>
 
