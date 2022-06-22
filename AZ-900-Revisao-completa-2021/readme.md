@@ -173,6 +173,8 @@ ___
 
 ![image](https://f.hubspotusercontent30.net/hubfs/508286/Microsoft%20Azure%20Shared%20Responsibility%20Model%20600x300.png)
 
+![image](https://cloudberry.engineering/azure-shared-responsbility-model.png)
+
 ___
 
 ## Core components in Azure Cloud
