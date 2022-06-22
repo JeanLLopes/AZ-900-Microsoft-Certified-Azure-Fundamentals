@@ -633,6 +633,18 @@ This service analyse behavior
 
 Have aditional cost
 
+Principal resources:
+- Accordance with policies
+  - execute policies in resources groups , assignatures
+- Continuos avaliation
+  - monitoring all services from time to time to guarantee the all services is correcty configuured
+- Personal Recomendations
+  - recommend new configurations based on your services
+- Protection against threads
+  - Analise the protection based on others reports and alerts
+
+      
+
 Azure Defender is available for this applications:
 - Applications Services
 - Storage
