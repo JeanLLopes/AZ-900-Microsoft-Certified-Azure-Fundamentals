@@ -831,7 +831,7 @@ You have a follow **Lock Types**:
 
  <br>
 
-### Azure Policies (AAD)
+### Azure Policy (AAD)
 
 - Helps the create organizational rules to evaluate the scale for resources.
 - Is possible apply in a signature
