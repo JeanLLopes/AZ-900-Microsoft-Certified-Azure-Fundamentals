@@ -870,7 +870,12 @@ You have a follow **Lock Types**:
 - Azure is co-responsable about data tranfering in your cloud
 - Azure has access on your cloud only to manage resources and collect data to analisy for recommend best pratices and best perfomance 
 - Azure make available one portal to recommend best pratices, based on all clients
-  - [Azure Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview)
+
+### Azure Trusted Center
+- kwon more about privacity, conformity, policys resources and good pratices about trusted in your cloud or application.
+- Azure provide a website to delivery more informações about your limits when the subject is Trusted.
+- Provide list to partnes companies. 
+- [Azure Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview)
 
 <br>
 
