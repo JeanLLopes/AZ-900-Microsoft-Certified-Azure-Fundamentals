@@ -512,6 +512,8 @@ The follow services read many telemetry
 ### Azure DevOps Services
 Is a integrations between developers and infrastructure
 
+![!image](https://dootrix.com/wp-content/uploads/2018/10/slack-imgs.jpg)
+
 ### Azure DevOps
 - Tools to colaborate and development your applications, including pipelines, Kanban and automaticaly tests based on cloud 
 
