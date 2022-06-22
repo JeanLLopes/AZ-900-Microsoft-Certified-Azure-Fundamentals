@@ -804,9 +804,10 @@ Manager access on Cloud, enable access to portal and resource controls, we have 
 
  <br>
 
-### Rosurce Locks
+### Resource Locks
 
 Protect you resource againt delete accidental, manage lock by assinature, groups of resources or individual resources in Azure Portal. The Lock Resource reply inherance for your childs, for example if you apply this lock in one resource it is propagates for your childs.
+You can apply _Resource Lock_ in a Resource Group and all childres inherit this policies. 
 You have a follow **Lock Types**:
 
 - CanNotDelete
