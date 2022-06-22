@@ -747,6 +747,7 @@ Provide Authentication and Authorization
 <br>
 
 ### Azure Active Directory (similar Local Active Director)
+Is used to provide authentication nd authorization for logins in Azure or partiner websites
 
 Provide follow services
 
