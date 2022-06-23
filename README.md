@@ -50,7 +50,7 @@ ____
 ### Simulate
 
 - [x] [thomasmitchell.net](https://thomasmitchell.net/az-900-mock-exam/)
-- [x] [examtopics.com](https://www.examtopics.com/exams/microsoft/az-900/view/2/)
+- [x] [examtopics.com](https://www.examtopics.com/exams/microsoft/az-900/view/4/)
 - [x] [itexams.com](https://www.itexams.com/exam/AZ-900)
 - [x] [testpreptraining.com](https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test)
 - [x] [cciedump.spoto.net](https://cciedump.spoto.net/online/exam.php?microsoft-az-900)
