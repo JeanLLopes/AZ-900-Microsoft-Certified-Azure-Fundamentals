@@ -1,3 +1,11 @@
+## Why use Cloud
+
+Principals beneficies is:
+- Less operational cost
+- Execute infrastructure more easy
+- High availability and high escalability 
+
+
 ## **Cloud Types**
 
 ### Public Cloud
