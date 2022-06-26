@@ -89,6 +89,16 @@ ___
 - When you apply the disaster recovery you need a plan to redirect your applications to disaster recovery, and this plan takes a time to apply, usually in hours.  
 - ![image](https://jadsonalves.com.br/wp-content/uploads/2021/04/migrate-to-premium-storage-using-azure-site-recovery-1.png)
 
+### Azure Site Recovery
+- provide implementation for replicated, failover and rescue your services
+- Azure Site recovery is an DRaaS (disaster recovery as a service)
+- Configure an service to make available in another region on Azure
+- All configurations is applied on 2 regions
+- ![image](https://azurecomcdn.azureedge.net/cvt-46bef236300115b89710e1f92bdffb79d892b5ed3c447d34c0f8bf3d07a07565/images/page/services/site-recovery/prop1.png)
+
+- * _failover_: tolerance to failure.
+
+
 <br>
 
 ### Customer Latency Capabilities 
