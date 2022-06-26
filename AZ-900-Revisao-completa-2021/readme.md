@@ -18,11 +18,11 @@ Principals beneficies is:
 ## Services availble on Azure
 
 #### Computer
-Azure Virtual Machines
-- Windows or Linux virtual machines (VMs) hosted in Azure.
+- Azure Virtual Machines
+ - Windows or Linux virtual machines (VMs) hosted in Azure.
 
-Azure Virtual Machine Scale Sets
-- Scaling for Windows or Linux VMs hosted in Azure.
+- Azure Virtual Machine Scale Sets
+ - Scaling for Windows or Linux VMs hosted in Azure.
 
 Azure Kubernetes Service
 - Cluster management for VMs that run containerized services.
