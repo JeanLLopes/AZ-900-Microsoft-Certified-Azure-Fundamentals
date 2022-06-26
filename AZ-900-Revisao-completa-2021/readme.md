@@ -1,10 +1,47 @@
-## Why use Cloud
+## **Why use Cloud**
+
+## **Beneficies of Cloud**
 
 Principals beneficies is:
 - Less operational cost
 - Execute infrastructure more easy
 - High availability and high escalability 
 
+### High availability
+- Basically is maintain you application available 99,999999...% of time online
+- For provide High availability you can reply you application in others Zones, see the imabe below, or reply or applications machines, and apply load balance for direct the requests. 
+- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfJ7aNbIK2G0sWwkDxlvG0sr780GCslSCRnGNH2N_tO8Z2fo8JqiXYy3GS7W9dxJJur-A&usqp=CAU)
+- About this topic you can have failure in your application, because an external resource, for example, if you a site and this site consume a database, case you database is down you application need continue available but presenting a error message to consume the database 
+
+<br>
+
+## Services availble on Azure
+
+#### Computer
+Azure Virtual Machines
+- Windows or Linux virtual machines (VMs) hosted in Azure.
+
+Azure Virtual Machine Scale Sets
+- Scaling for Windows or Linux VMs hosted in Azure.
+
+Azure Kubernetes Service
+- Cluster management for VMs that run containerized services.
+
+Azure Service Fabric
+- Distributed systems platform that runs in Azure or on-premises.
+
+Azure Batch
+- Managed service for parallel and high-performance computing applications.
+
+Azure Container Instances
+- Containerized apps run on Azure without provisioning servers or VMs.
+
+Azure Functions
+- An event-driven, serverless compute service.
+
+___
+
+<br>
 
 ## **Cloud Types**
 
@@ -29,18 +66,6 @@ Principals beneficies is:
 
 <br>
 
-___
-
-## **Beneficies of Cloud**
-
-### High availability
-- Basically is maintain you application available 99,999999...% of time online
-- For provide High availability you can reply you application in others Zones, see the imabe below, or reply or applications machines, and apply load balance for direct the requests. 
-- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfJ7aNbIK2G0sWwkDxlvG0sr780GCslSCRnGNH2N_tO8Z2fo8JqiXYy3GS7W9dxJJur-A&usqp=CAU)
-- About this topic you can have failure in your application, because an external resource, for example, if you a site and this site consume a database, case you database is down you application need continue available but presenting a error message to consume the database 
-
-
-<br>
 
 ### Global Reach
 - Is about the service is available around the world, 
