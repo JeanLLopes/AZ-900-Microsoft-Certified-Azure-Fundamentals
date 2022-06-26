@@ -24,10 +24,11 @@ During creating the virtual machine you can choice the protocol, HTTP, HTTPS, RD
 
 ![image](https://user-images.githubusercontent.com/12099889/170839653-4adb7737-f8f1-49fe-8e7b-a7af62d3ad00.png)
 
+___
 
-### Cloud Model
+### Microsoft
 
-#### Public Cloud
+- [ ] [certifications - exams - az-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900?source=learn)
 
 ___
 
