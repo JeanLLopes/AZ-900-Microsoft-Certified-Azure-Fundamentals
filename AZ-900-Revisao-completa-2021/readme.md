@@ -567,7 +567,22 @@ Is a service on Azure to provede a computacional services for demmand, for examp
     - Personal: each people have one session
     - ![image](https://i.ytimg.com/vi/6MrQxBsgSL0/mqdefault.jpg)
 
-- **Azure Networking Service**
+- **Azure Batch**
+  - Provide large scale in parralell and high availability (HPC) VM' s
+  - This resource is directed whe you have a large job to executable and you need, ten, hundred or thousands VM' s 
+  - When you're ready to run a job, Batch does the following:
+    - Starts a pool of compute VMs for you.
+    - Installs applications and staging data.
+    - Runs jobs with as many tasks as you have.
+    - Identifies failures.
+    - Requeues work.
+    - Scales down the pool as work completes.
+
+_____
+
+<br>
+
+### **Azure Networking Service**
   - ![image](https://docs.microsoft.com/pt-br/azure/expressroute/media/expressroute-howto-coexist-resource-manager/scenario1.jpg)
   
   - You create a network to comunication resources on cloud or out off cloud
