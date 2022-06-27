@@ -536,7 +536,13 @@ Is a service on Azure to provede a computacional services for demmand, for examp
   - provide a virtual machines for user
   - is a **IaaS** product type
   - offer total control access and personalization about machine
-
+  
+- **Virtual Machine Dimension Set**
+  - Provide an group of VM' s with same configurations
+  - This VM' s is available in scale, when you need more machine, more instances is created.
+  - The sizing  ou dimencion can be automaticale, manual or both
+  - You can use this machines for Big Data or containers for example.
+  - ![image](https://docs.microsoft.com/pt-br/learn/azure-fundamentals/azure-compute-fundamentals/media/icon-scale-sets-8682cc12.png)
 
 - **APP Service**:
   - Is a Paas service
