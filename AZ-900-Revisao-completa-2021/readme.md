@@ -609,8 +609,29 @@ _____
     - Is a private conection
     - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
     - Is more expensive
-  - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png)
-  - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/design/vpngateway-vnet-to-vnet-connection-diagram.png)
+    - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png)
+    - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/design/vpngateway-vnet-to-vnet-connection-diagram.png)
+    
+<br>
+
+- **Route Network Traffic**
+  By default Azure routes traffic betwheen VNet, On premisse Network and the internet, but you can override this routes using the follow settings:
+  
+  - **Route Tables**
+    - You can use a table to define routes betwheen VNet, resources, anyway
+    - ![image](https://knowledgebase.paloaltonetworks.com/servlet/rtaImage?eid=ka14u0000008rSN&feoid=00N0g000003VPSs&refid=0EM0g000001AdEG)
+  
+  <br>
+  
+  - **Border Gateway Protocol (BGP)**
+    - Works with VPN gateway, Azure Route Server or Express Route
+    - Works to propagate routes for local networks on Azure
+    - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/vpn-gateway-bgp-overview/full-mesh-transit.png)
+  
+<br>
+
+______
+
 
 - **Azure Storage Service**
 - Provide phisical space to save your datas in file mode
