@@ -606,9 +606,25 @@ _____
 
 
   - **Azure Express Route / Gateway Express Route**: extends local network to azure by a private connection, by wireles or fibre
+    - With ExpressRoute, your data doesn't travel over the public internet, so it's not exposed to the potential risks associated with internet communications. ExpressRoute is a private connection from your on-premises infrastructure to your Azure infrastructure. Even if you have an ExpressRoute connection, DNS queries, certificate revocation list checking, and Azure Content Delivery Network requests are still sent over the public internet 
     - Is a private conection
     - Need a new contract with your internet provide to create a communication between a Azure datacenter with your company
     - Is more expensive
+    - ExpressRoute supports the following models that you can use to connect your on-premises network to the Microsoft cloud:
+    - ![image](https://docs.microsoft.com/en-us/learn/azure-fundamentals/azure-networking-fundamentals/media/azure-connectivity-models-4deabab1.png)
+      - CloudExchange colocation 
+        - Colocated providers can normally offer both Layer 2 and Layer 3 connections between your infrastructure, which might be located in the colocation facility, and the Microsoft cloud. For example, if your datacenter is colocated at a cloud exchange such as an ISP, you can request a virtual cross-connection to the Microsoft cloud. 
+      - Point-to-point Ethernet connection
+        - Point-to-point connections provide Layer 2 and Layer 3 connectivity between your on-premises site and Azure. You can connect your offices or datacenters to Azure by using the point-to-point links. For example, if you have an on-premises datacenter, you can use a point-to-point Ethernet link to connect to Microsoft. 
+      
+      - Any-to-any connection
+        - With any-to-any connectivity, you can integrate your wide area network (WAN) with Azure by providing connections to your offices and datacenters. Azure integrates with your WAN connection to provide a connection like you would have between your datacenter and any branch offices.
+        - With any-to-any connections, all WAN providers offer Layer 3 connectivity. For example, if you already use Multiprotocol Label Switching to connect to your branch offices or other sites in your organization, an ExpressRoute connection to Microsoft behaves like any other location on your private WAN.
+
+      - Directly from ExpressRoute sites
+        - You can connect directly into the Microsoft's global network at a peering location strategically distributed across the world. ExpressRoute Direct provides dual 100 Gbps or 10-Gbps connectivity, which supports Active/Active connectivity at scale. 
+
+
     - ![image](https://miro.medium.com/max/1037/1*UKeZhTv7d2t0YkqpwelZkA.png)
     - ![image](https://docs.microsoft.com/pt-br/azure/vpn-gateway/media/design/vpngateway-vnet-to-vnet-connection-diagram.png)
     
