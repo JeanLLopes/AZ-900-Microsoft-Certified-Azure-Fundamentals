@@ -180,9 +180,28 @@ These services all share several common characteristics:
 
 **Azure HDInsight**
 - Process massive amounts of data with managed clusters of Hadoop clusters in the cloud.
+- You can create a cluster with types:
+  - Apache Spark
+  - Apache Hadoop
+  - Apache Kafka
+  - Apache HBase
+  - Apache Storm
+  - Machine Learning
 
 **Azure Databricks**
-- Integrate this collaborative Apache Spark-based analytics service with other big data services in Azure.
+- Integrate this collaborative Apache Spark-based analytics service with other big data services in Azure
+- Helps to discovery your data
+- You can integrate with Machine Learning Soluctions 
+- Used with Apache Spark
+- Support following languages:
+  - Python, Scala, R, Java e SQL
+  - Data Analyses Libraries: TensorFlow, PyTorch e scikit-learn.
+
+**Azure Data Lake Analytics**
+- Analyses Big Data about demand
+- You do not need implement dedicated hardware to this soluction
+- You export the data, create querys and you pay only when is running
+- Is a Saas soluction
 
 <br>
 
