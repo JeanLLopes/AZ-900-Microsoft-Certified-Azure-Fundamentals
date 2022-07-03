@@ -164,9 +164,13 @@ These services all share several common characteristics:
 
 **IoT Central**
 - Fully managed global IoT software as a service (SaaS) solution that makes it easy to connect, monitor, and manage IoT assets at scale.
+- Provide any templates to connect net devices on plataform.
+- Is a Saas service.
+
 
 **Azure IoT Hub**
 - Messaging hub that provides secure communications between and monitoring of millions of IoT devices.
+- Can router millions of messagens in any types for another services on Azure
 
 **IoT Edge**
 - Fully managed service that allows data analysis models to be pushed directly onto IoT devices, which allows them to react quickly to state changes without needing to consult cloud-based AI models.
