@@ -784,6 +784,9 @@ The follow services read many telemetry
 
 <br>
 
+____
+
+
 ### Artificial Intelligence and Machine Learning
 
 ### Azure Machine Learning
@@ -801,6 +804,7 @@ The follow services read many telemetry
 ### Azure Bot Service
 - Is a SaaS soluction 
 - Provide tools to create bots, in personal or corporative level
+- In this services you have available to use **LUIS** (Assistent for natural language) available on Azure
 
 <br>
 
