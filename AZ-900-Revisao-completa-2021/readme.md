@@ -787,7 +787,7 @@ The follow services read many telemetry
 ____
 
 
-### Artificial Intelligence and Machine Learning
+## Artificial Intelligence and Machine Learning
 
 ### Azure Machine Learning
 - Based in cloud is a SaaS soluction to works with machine learning
@@ -808,23 +808,33 @@ ____
 
 <br>
 
-### Serverless computation
+_____
+
+
+## Serverless computation
 
 ### Azure Functions
 - Is a SaaS smoluction, 
 - Provide that infrastucture to run a code when configured a trigger, for example (email, event, HTTP request, ...)
 - Is the best soluction when you have a code needs running in espeficic times, or from a trigger
+- You pay for execution times and duration 
 
 <br>
+
 
 ### Azure Logic Apps
 - Is a SaaS soluction.
 - Provide orchestration for taks in cloud, calling anothers services or integrations.
 - Is the best choice when you need an orchestration in your tasks from a trigger.
+- You pay for execution times and trigger
+
 
 <br>
 
-### Azure DevOps Services
+_____
+
+
+## Azure DevOps Services
 Is a integrations between developers and infrastructure
 
 ![!image](https://dootrix.com/wp-content/uploads/2018/10/slack-imgs.jpg)
@@ -834,7 +844,10 @@ Is a integrations between developers and infrastructure
 
 <br>
 
-### GitHub
+_____
+
+
+## GitHub
 - Version control for your source-code
 - Open source
 - Manager tasks, bugs, ... 
