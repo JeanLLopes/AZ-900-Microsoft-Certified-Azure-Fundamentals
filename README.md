@@ -36,6 +36,7 @@ ___
 
 - [x] [Youtube AZ-900 Azure Fundamentals Certification Course Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [x] [AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU&t=3356s)
+- [x] [Simulados AZ-900 Azure Fundamentos](https://www.youtube.com/watch?v=sEmlfyYGJRc)
 
 ___
 
