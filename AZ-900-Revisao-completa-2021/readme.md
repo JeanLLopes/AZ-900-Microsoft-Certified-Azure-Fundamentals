@@ -844,16 +844,16 @@ Is a integrations between developers and infrastructure
 - Is the best choice when you need following delive task and exports reports
 - Is thes best choice when your project and source code not is open source
 - Available following services:
-  - Azure Repos
+  - **Azure Repos**
     - Manage your source-code and documentation  
-  - Azure Pipelines
+  - **Azure Pipelines**
     - Tool to automate your pipeline CI/CD 
-  - Azure Artifacts
+  - **Azure Artifacts**
     - Repo to deploy compiled source code and artifacts 
-  - Azure Boards
+  - **Azure Boards**
     - Manage your tasks, PBI' s, Epics and others itens
     - You can use with Kamban, Scrum, ScrumBan, you decide the methodoly  
-  - Azure Tests Plan 
+  - **Azure Tests Plan **
     - Tool to automate tests in your pipeline CI/CD 
 
 ### GitHub
@@ -872,17 +872,18 @@ Is a integrations between developers and infrastructure
 
 ### Azure DevTest Labs
 - You can create an VM' s or infrastructure to deploy or test your application
-  - You can create this structure using **ARM**
+- You can create this structure using **ARM**
+  - ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/template-processing.png)
+  - ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/nested-tiers-template.png)
+  - ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/tier-templates.png)
 - When test or deploy is completed Aure stop or delet all resources created 
 - In this lab you can use your *Azure credits* to provide machines or infrastructure in cloud and use to test your applications
-  - **Azure credits** = you win this credits all months, is a bonus tipe offer for Microsoft for your clients
 
+<br>
 
+> **Azure credits** = you win this credits all months, is a bonus tipe offer for Microsoft for your clients
 
 > **ARM**: Azure Resource Manager, with this resource you can manage resources on Azure, you can create am script using YAML or JSON and with this script you can create all resources on Azure: 
-> ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/template-processing.png)
-> ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/nested-tiers-template.png)
-> ![image](https://docs.microsoft.com/pt-br/azure/azure-resource-manager/templates/media/overview/tier-templates.png)
 
 <br>
 
