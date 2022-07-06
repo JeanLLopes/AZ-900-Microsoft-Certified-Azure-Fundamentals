@@ -1146,6 +1146,12 @@ Have aditional cost.
 
 <br>
 
+![image](https://docs.microsoft.com/en-us/learn/azure-fundamentals/protect-against-security-threats-azure/media/3-investigate-incidents-54765923.png)
+  
+  
+
+<br>
+
 ### Azure Key Vault
 
 Manage and storage secrets and certifications giving more security  and  permissions to access control of this informations.
@@ -1154,6 +1160,8 @@ Manage and storage secrets and certifications giving more security  and  permiss
 - Manage Keys
 - Manage Certifications
 - Storage secrets based in security hardware (HSMs)
+
+![image](https://docs.microsoft.com/en-us/learn/azure-fundamentals/protect-against-security-threats-azure/media/4-key-vault-certificates-b32bfbfe.png)
 
 <br>
 
