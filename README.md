@@ -28,8 +28,8 @@ ___
 
 ### Microsoft
 
-- [ ] [certifications - exams - az-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900?source=learn)
-
+- [x] [certifications - exams - az-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900?source=learn)
+- [x] [Study Guide-Exam AZ-900: Microsoft Azure Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 ___
 
 ### Youtube
