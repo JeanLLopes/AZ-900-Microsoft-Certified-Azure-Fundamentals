@@ -1044,7 +1044,7 @@ You can configure this follows tools in Azure Firewall
 
 Azure provide an service defend you network about attack of the DDOS
 
-![image](https://docs.microsoft.com/pt-br/learn/azure-fundamentals/secure-network-connectivity-azure/media/4-distributed-denial-service.png)
+![image](https://td-mainsite-cdn.tutorialsdojo.com/wp-content/uploads/2020/08/azure-ddos-protection.png)
 
 You have available two layer of this services:
 
