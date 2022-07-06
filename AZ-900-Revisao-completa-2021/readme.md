@@ -1023,6 +1023,11 @@ Secuty Layer since phisicaly to remote:
 
 Provide Security for your services
 
+  - Is a service type **FaaS**
+  - Is possible create, register and centralizer policies 
+  - Provide a public IP static for yours resources in virtual network, manke possible others server identify your trafic.
+  - Is integrated to Azure Monitor to log registry and analisy
+  - Is more expensive in comparison with F5 (partner firewall available in marketingplace on Azure)
   - High availability
   - Scalability
   - Rules to inboud and outbound
@@ -1032,7 +1037,8 @@ Provide Security for your services
   - Protection in application layer for HTTPS outboud
   - Support to DNAT (destination network address translation)
     - ![image](https://i0.wp.com/ipwithease.com/wp-content/uploads/2017/09/SNAT-VS-DNAT-1.jpg) 
-
+  - ![image](https://docs.microsoft.com/pt-br/azure/firewall/media/overview/firewall-premium.png)
+  
 You can configure this follows tools in Azure Firewall
   - Applications rules that define FQDN(fully qualified domain names) who application can has access on sub-network
   - Network rules to be define origen address, protocol, destination port and destination address
@@ -1181,20 +1187,6 @@ Is a phisical server dedidcated for a specific company and dedicated to big work
 
 <br>
 
-
-
-### Azure Firewall
-
-- High availability
-- Is a service type **FaaS**
-- Is possible create, register and centralizer policies 
-- Provide a public IP static for yours resources in virtual network, manke possible others server identify your trafic.
-- Is integrated to Azure Monitor to log registry and analisy
-- Is more expensive in comparison with F5 (partner firewall available in marketingplace on Azure)
-- ![image](https://docs.microsoft.com/pt-br/azure/firewall/media/overview/firewall-premium.png)
-
-<br>
-
 ____
 
 ## **Core Azure Identity Services**
@@ -1285,6 +1277,7 @@ You have a follow **Lock Types**:
 - TAG is by resource, not apllied with inherance
 - Must used to separate cost center for especific departament
 - Is created based in key : value, for example: "cost-center":"marketing"
+- ![image](https://abouconde335669239.files.wordpress.com/2019/02/resource-group-tagging.png)
 
  <br>
 
@@ -1300,7 +1293,7 @@ You have a follow **Lock Types**:
 ### Azure Blueprint
 
 - Make possible that developers create scripts to provide environments, on business and organizational rules applied, using templates
-- make easilly provide:
+- Make easilly provide:
   - Role assigniment
   - Policy assignment
   - Resource manager
