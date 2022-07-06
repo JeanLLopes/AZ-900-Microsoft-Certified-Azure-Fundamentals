@@ -908,9 +908,17 @@ Basically is a tools available for Microsoft for oyou connect in your cloud and 
 
 - Azure REST API
 
-![image](https://i.ytimg.com/vi/L_hEslzBr2o/maxresdefault.jpg)
+- ARM (Azure resource manager)
+  - With this resource you can automate creating resources on Azure Cloud using scripts with JSON
+  - You can create dozens / hundreds machines or configurations at once time and save this JSON file to next executions
+   
+
+![image](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/consistent-management-layer.png)
 
 <br>
+
+___
+
 
 ### Azure Advisor
 Is a resource that analisy in your cloud all Azure Resources and recommends best pratices based on Microsoft recomedations to optimize you Cloud, this recommendations is based on:
