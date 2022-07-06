@@ -1316,10 +1316,33 @@ You have a follow **Lock Types**:
 
 - More information about [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) and [LGPD](https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Prote%C3%A7%C3%A3o_de_Dados).
 
+- Categories of conformidad on Azure
+  - ![image](https://docs.microsoft.com/pt-br/learn/azure-fundamentals/examine-privacy-compliance-data-protection-standards/media/2-compliance-matrix-383090ad.png) 
+
 - Azure Cloud has many certifications about data protections
 - Azure is co-responsable about data tranfering in your cloud
 - Azure has access on your cloud only to manage resources and collect data to analisy for recommend best pratices and best perfomance 
 - Azure make available one portal to recommend best pratices, based on all clients
+
+<br>
+
+### Microsoft Privacity and Policy
+
+Provide trusted and inform who Microsoft collect, protect and use data of your clients
+
+<br>
+
+### Microsoft Confiability Center
+
+Provide documentation about patterns of accordance and about the Azure provide suport for your company
+
+<br>
+
+### Azure Accordance Documentation
+
+Provide detailed informations about Accordance, legal patterns and regulator on Azure
+
+<br>
 
 ### Azure Trusted Center
 - kwon more about privacity, conformity, policys resources and good pratices about trusted in your cloud or application.
@@ -1338,7 +1361,7 @@ You have a follow **Lock Types**:
  <br>
 
 ### Sovereign Regions (US Government Services)
-
+- [Azure Governament](https://azure.microsoft.com/pt-br/global-infrastructure/government/)
 - Is servers phisicaly separates of the public Azure servers
 - Are services for gorvernance of country, states or counties
 - Phisically available on american states  
