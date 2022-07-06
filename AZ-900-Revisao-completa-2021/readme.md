@@ -1037,6 +1037,21 @@ You can configure this follows tools in Azure Firewall
 
 <br>
 
+### Network Security Group (NSGs) (Mini Firewall)
+
+- Do not has high availability
+- NSGs is a minimal firewall with focus in IP list
+- The principal function is filter the traffic an specific resource, with block or unblock actions
+- Contain rules to **Inbound** and **Outbound**
+- Works with IP list
+- Can be associate to Subnet or NIC (Network interface Card)
+- Is recomend associate an NSG to a Subnet and only specific cases connect to an NIC
+- ![image](https://www.azureexperts.com.br/wp-content/uploads/2019/12/123.png)
+- ![image](https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png)
+
+
+<br>
+
 ### Azure Security Center
 
 Is a layer based on monitoring and configurations of security. Security Central colect events of the Azure and log analitycs and correlates them to make susgestions in your **Cloud Advisor Service** 
@@ -1137,20 +1152,7 @@ Is a phisical server dedidcated for a specific company and dedicated to big work
 
 <br>
 
-### Network Security Group (NSGs) (Mini Firewall)
 
-- Do not has high availability
-- NSGs is a minimal firewall with focus in IP list
-- The principal function is filter the traffic an specific resource, with block or unblock actions
-- Contain rules to **Inbound** and **Outbound**
-- Works with IP list
-- Can be associate to Subnet or NIC (Network interface Card)
-- Is recomend associate an NSG to a Subnet and only specific cases connect to an NIC
-- ![image](https://www.azureexperts.com.br/wp-content/uploads/2019/12/123.png)
-- ![image](https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png)
-
-
-<br>
 
 ### Azure Firewall
 
