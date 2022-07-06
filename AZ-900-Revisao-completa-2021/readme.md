@@ -1027,6 +1027,9 @@ Provide Security for your services
   - Scalability
   - Rules to inboud and outbound
   - Add log in Azure Monitor
+  - Protection for inboud in protocols no HTTPS (for example RDP, SSH, FTP, ...)
+  - Protections for outboud in all ports
+  - Protection in application layer for HTTPS outboud
   - Support to DNAT (destination network address translation)
     - ![image](https://i0.wp.com/ipwithease.com/wp-content/uploads/2017/09/SNAT-VS-DNAT-1.jpg) 
 
@@ -1034,6 +1037,23 @@ You can configure this follows tools in Azure Firewall
   - Applications rules that define FQDN(fully qualified domain names) who application can has access on sub-network
   - Network rules to be define origen address, protocol, destination port and destination address
   - NAT rules, define address and port to communication betweehn applications
+
+<br>
+
+### Azure DDOS Protection
+
+Azure provide an service defend you network about attack of the DDOS
+
+![image](https://docs.microsoft.com/pt-br/learn/azure-fundamentals/secure-network-connectivity-azure/media/4-distributed-denial-service.png)
+
+You have available two layer of this services:
+
+  - Basic:
+    - This Layer of Azure DDOS protection is free and anable by default in new network
+    - This layer protect the Azure cloud about ddos attack
+    
+  - Standard:
+    - Is complementar about basic protection, the only diferrence is the protection is applied in Virtual Network 
 
 <br>
 
