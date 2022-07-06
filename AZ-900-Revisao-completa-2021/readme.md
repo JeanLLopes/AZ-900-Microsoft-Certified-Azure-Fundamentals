@@ -978,6 +978,65 @@ ___
 
 ## **Azure Security Tools and Features**
 
+Secuty Layer since phisicaly to remote:
+
+![image](https://docs.microsoft.com/en-us/learn/azure-fundamentals/secure-network-connectivity-azure/media/2-defense-depth.png)
+
+- Phisical Security
+  - Physically securing access to buildings and controlling access to computing hardware within the datacenter are the first line of defense.
+  - With physical security, the intent is to provide physical safeguards against access to assets. These safeguards ensure that other layers can't be bypassed, and loss or theft is handled appropriately. Microsoft uses various physical security mechanisms in its cloud datacenters.
+
+
+- Identity and access
+  - Control access to infrastructure and change control.
+  - Use single sign-on (SSO) and multifactor authentication.
+  - Audit events and changes.
+
+- Perimeter
+  - Use DDoS protection to filter large-scale attacks before they can affect the availability of a system for users.
+  - Use perimeter firewalls to identify and alert on malicious attacks against your network.
+
+- Network
+  - Limit communication between resources.
+  - Deny by default.
+  - Restrict inbound internet access and limit outbound access where appropriate.
+  - Implement secure connectivity to on-premises networks. 
+
+- Compute
+  - Secure access to virtual machines.
+  - Implement endpoint protection on devices and keep systems patched and current.   
+
+- Application
+  - Ensure that applications are secure and free of vulnerabilities.
+  - Store sensitive application secrets in a secure storage medium.
+  - Make security a design requirement for all application development.
+
+- Data
+  - Stored in a database.
+  - Stored on disk inside virtual machines.
+  - Stored in software as a service (SaaS) applications, such as Office 365.
+  - Managed through cloud storage.
+
+<br>
+
+### Azure Firewall
+
+Provide Security for your services
+
+  - High availability
+  - Scalability
+  - Rules to inboud and outbound
+  - Add log in Azure Monitor
+  - Support to DNAT (destination network address translation)
+    - ![image](https://i0.wp.com/ipwithease.com/wp-content/uploads/2017/09/SNAT-VS-DNAT-1.jpg) 
+
+You can configure this follows tools in Azure Firewall
+  - Applications rules that define FQDN(fully qualified domain names) who application can has access on sub-network
+  - Network rules to be define origen address, protocol, destination port and destination address
+  - NAT rules, define address and port to communication betweehn applications
+
+<br>
+
 ### Azure Security Center
 
 Is a layer based on monitoring and configurations of security. Security Central colect events of the Azure and log analitycs and correlates them to make susgestions in your **Cloud Advisor Service** 
