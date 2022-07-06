@@ -1412,7 +1412,7 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
 
 <br>
 
-### Total Cost Ownership Calcular
+### Total Cost Ownership Calcular (TCO)
 
 - Is an service available on Azure Portal, to estimate how much will be saving moving to Azure Cloud, how more information you specified in this service more assertive is your estimation
 - ![image](https://i0.wp.com/www.sustainablepurchasing.org/wp-content/uploads/2016/09/TCO-graphic-SH.png?resize=400%2C400&ssl=1)
