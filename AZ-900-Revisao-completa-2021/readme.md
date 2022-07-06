@@ -1132,6 +1132,7 @@ Have aditional cost.
 
 - Collect
   - Collect all data in a cloud, or an specific resource logs, transactions, logins, ...
+  - Local and anothers cloud
 - Detect
   - With a data this soluctins identify whats is the normal resource usage, and with this he can identify any unusual behavior 
 - Investigation
