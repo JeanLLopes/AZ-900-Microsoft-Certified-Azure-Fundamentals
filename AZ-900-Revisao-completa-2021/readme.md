@@ -920,7 +920,7 @@ Basically is a tools available for Microsoft for oyou connect in your cloud and 
 ___
 
 
-### Azure Advisor
+### Azure Advisor / Azure Assistent
 Is a resource that analisy in your cloud all Azure Resources and recommends best pratices based on Microsoft recomedations to optimize you Cloud, this recommendations is based on:
 - Reliability
 - Security
@@ -935,7 +935,8 @@ Is a resource that analisy in your cloud all Azure Resources and recommends best
 <br>
 
 ### Azure Monitor
-Is a resource available to colect, analyse and make telemetry in oyour applications in Cloud, the principal tools are:
+you can create alerts with SMS, e-mail, ..
+Is a resource available to colect, analyse and make telemetry in your applications in Cloud, the principal tools are:
 
 - Application Insights
   - make analisys on application
@@ -953,18 +954,25 @@ Is a resource available to colect, analyse and make telemetry in oyour applicati
   - Is a tool to create dashboard
   - You can integrated with Grafana or Kibana   
   
-![image](https://docs.microsoft.com/pt-br/azure/azure-monitor/media/data-platform/overview.png)
+![image](https://docs.microsoft.com/pt-br/learn/azure-fundamentals/monitoring-fundamentals/media/2-identify-product-options-01.png)
 
 <br>
 
-### Azure Service Heath
+### Azure Service Heath / Azure Services Integrated
+You can monitoring status on azure services in web-site [status.azure.com](https://status.azure.com/pt-br/status).
 
 Evaluate problems in Azure Cloud. Make available for all customer if has identified any problem in Azure Cloud and make available reports with more technical details
+
+Used to analyses the RCAs (root case analyses)
+
 - Comunication about crash or stop services in Azure Cloud
 - Planned manutence
 - Others advices about health
 
 ![image](https://www.partech.nl/publication-image/%7B299B31CA-3E87-4103-A989-A9652136AE88%7D)
+
+
+<br>
 
 ___
 
