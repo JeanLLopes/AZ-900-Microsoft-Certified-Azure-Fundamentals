@@ -895,7 +895,11 @@ Basically is a tools available for Microsoft for oyou connect in your cloud and 
 - Azure Portal
 - Azure PowerShell
   - Windows, Linux (you need Powersheel core) and Mac (you need Powersheel core)) 
+  - Based on PowerShell command 
 
+- Azure CLI
+  - Is a pront like a PowerShell but the principal difference betwheen is a command line used, this pront is based in BASH command
+  
 - Azure Cloud Shell
   - is a PowerShell running in cloud
 
