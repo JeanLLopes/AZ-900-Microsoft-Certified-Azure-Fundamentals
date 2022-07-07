@@ -1293,6 +1293,7 @@ You can move the resource to another resource group, but if lock is applid in re
 
 - Helps the create organizational rules to evaluate the scale for resources.
 - Is possible apply in a signature
+- You can create rules applied as soon new resource as created, for examples, if you need that all new resources created in resource group need inherit a tag by resource group. 
 - Determine an limnit to create new resources, based in categories, Storage, Network, computational, Security and Monitoring
 - ![image](https://i.ytimg.com/vi/obWeyLHWQIY/maxresdefault.jpg)
 
