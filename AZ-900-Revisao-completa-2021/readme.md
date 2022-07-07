@@ -1386,6 +1386,8 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
 
 <br>
 
+____
+
 ## **Plan and Cost Management** 
 
 <br>
@@ -1395,7 +1397,7 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
   - Each resorce have an value to use 
 
 - 2: Service
-  - Azure usege tax
+  - Azure usage tax
   - Periods to bill (monthly, anually, ondemmand, .. ), in general contracts most biggest, for example 10 years have more discount
 
 - 3: Location
@@ -1429,7 +1431,9 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
 
 <br>
 
-### Azure Cost Management
+____
+
+## Azure Cost Management
 
 - When yo manage all information about your cost on cloud
 - you can define:
@@ -1442,7 +1446,9 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
  
 <br>
 
-### Service Level Agreements (SLA)
+____
+
+## Service Level Agreements (SLA)
 
 - Free resource dont have SLA
 - Previous resources dont have SLA
@@ -1451,8 +1457,9 @@ Provide detailed informations about Accordance, legal patterns and regulator on 
 - ![image](https://unascimento.files.wordpress.com/2020/01/azureresilienceservices4.png)
 
 <br>
+_____
 
-### Azure Preview Program
+## Azure Preview Program
 
 While a service is on preview, this service dont have SLA
 
