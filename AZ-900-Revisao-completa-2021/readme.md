@@ -1043,6 +1043,10 @@ You can configure this follows tools in Azure Firewall
   - Applications rules that define FQDN(fully qualified domain names) who application can has access on sub-network
   - Network rules to be define origen address, protocol, destination port and destination address
   - NAT rules, define address and port to communication betweehn applications
+  
+<br>
+  
+>**RDP** Remote Desktop Protocol (ou somente RDP) é um protocolo multi-canal que permite que um usuário se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das versões do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padrão a porta TCP 3389
 
 <br>
 
