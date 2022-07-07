@@ -58,7 +58,4 @@ ____
 - [x] [cciedump.spoto.net](https://cciedump.spoto.net/online/exam.php?microsoft-az-900)
 
 
-____
 
-
->**RDP** Remote Desktop Protocol (ou somente RDP) é um protocolo multi-canal que permite que um usuário se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das versões do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padrão a porta TCP 3389
