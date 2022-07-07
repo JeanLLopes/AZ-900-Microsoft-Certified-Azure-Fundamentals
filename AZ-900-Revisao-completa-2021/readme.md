@@ -1263,6 +1263,10 @@ Protect you resource againt delete accidental, manage lock by assinature, groups
 You can apply _Resource Lock_ in a Resource Group and all childres inherit this policies. 
 You have a follow **Lock Types**:
 
+Is applied in signature, resource groups or resource
+
+You can move the resource to another resource group, but if lock is applid in resource the resource takes that LOCK to another resource group 
+
 - CanNotDelete
   - Read = Yes
   - Update = Yes
