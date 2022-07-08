@@ -23,6 +23,8 @@ Principals beneficies is:
 
 **Azure Virtual Machine Scale Sets**
 - Scaling for Windows or Linux VMs hosted in Azure.
+- Virtual machine scale enables you to provision a group of matching and load-balanced virtual machines in Azure.
+- Imagine you are running a website that enables scientists to upload astronomy images that need to be processed. If you duplicated the VM, you would normally need to configure an additional service to route requests between multiple instances of the website. Virtual machine scale sets could do that work for you.
 
 **Azure Kubernetes Service**
 - Cluster management for VMs that run containerized services.
