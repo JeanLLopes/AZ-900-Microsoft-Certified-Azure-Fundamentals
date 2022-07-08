@@ -674,6 +674,9 @@ ______
 
 - **Azure Storage Service**
 - Provide phisical space to save your datas in file mode
+- Data is not backed up automatically to another Azure Data Center although it can be depending on the replication option configured for the account. Locally
+Redundant Storage (LRS) is the default which maintains three copies of the data in the data center.
+- Geo-redundant storage (GRS) has cross-regional replication to protect against regional outages. Data is replicated synchronously three times in the primary region, then replicated asynchronously to the secondary region.
   - **Container storage (blob)**:
     - Not need phisical separations by folder for example
     - Is recommended to a large quantities of files
